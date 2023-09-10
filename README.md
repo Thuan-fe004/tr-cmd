@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thuận
-- 👀 I’m interested in Font-end
+- 👀 I’m interested in Front-end
 - 🌱 I’m currently learning HTML/CSS/JavaScrip
 - 💞️ I’m looking to collaborate on github platform
 - 📫 Contact me via email: thuanyasuo2k4@gmail.com
