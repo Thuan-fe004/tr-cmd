@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thuận
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML/CSS/JavaScrip
+- 👀 I’m interested in Front-end,AI
+- 🌱 I’m currently learning HTML/CSS/JavaScrip, Python,C#,Java
 - 💞️ I’m looking to collaborate on github platform
 - 📫 Contact me via email: thuanyasuo2k4@gmail.com
 
